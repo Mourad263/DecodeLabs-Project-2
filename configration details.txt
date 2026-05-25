@@ -1,0 +1,18 @@
+3. Small Explanation
+
+Explain:
+
+dataset
+algorithm
+results
+
+Final Advice From Your Senior 😄
+
+Do NOT just copy code.
+
+You must understand:
+
+WHY scaling?
+WHY train/test split?
+WHY KNN works?
+WHY confusion matrix matters?
